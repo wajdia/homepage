@@ -12,6 +12,18 @@ iframe.clock{
 
 
 
+div.cubes{
+	background-color: rgba(241,250,250,0.7);
+	width:55%;
+	margin:auto;
+	/*opacity: 0.8;*/
+	/*super important for positioning*/
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+	
+}
+	
 div.links{
 	background-color: rgba(241,250,250,0.7);
 	width:55%;
